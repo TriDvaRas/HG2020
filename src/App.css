@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+  overflow: hidden
+}
+.App *{
+  
+  transition: .3s ease;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.mainContainer {
+  padding: 60px 120px
+}
+
+img {
+  width: 100%;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.setsTable {
+  display: flex;
+  flex-direction: column;
+}
+.setsRow {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.setContainer {
+  margin: 30px;
+  max-width: 375px;
+  width: auto;
+  
+}
+.setContainer *{
+  border-radius: 25px;
+}
+
+.imageContainer {
+  position: relative;
+}
+
+.setOverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 0;
+  opacity: 0.7;
+  background-color: rgb(40, 40, 44);
+  display: block;
+  height: auto;
+  overflow: hidden;
+  border-radius: 25px  25px 0 0;
+}
+
+.imageContainer:hover  .setOverlayButton {
+  
+  width: 100px; 
+}
+.imageContainer:hover  .setOverlay {
+  width: 150px; 
+}
+.imageContainer:hover  .text {
+  opacity: 0.9; 
+}
+.text {
+  white-space: nowrap; 
+  opacity: 0; 
+  color: white;
+  font-size: 24px;
+  overflow: hidden;
+}
+.setOverlayButton{
+  margin: 20px auto 0 auto;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:0;
+  height:50px;
+  border:rgb(116, 115, 122) solid 2px;
+  border-radius: 10px;
+  background-color: rgba(65, 64, 68, 0.7);
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 30px;
+}
