@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../App.css";
 import Set from './Set'
 import SetList from '../assets/SetsList.json'
@@ -8,22 +8,13 @@ import SetList from '../assets/SetsList.json'
 
 function Table() {
     let nodes = []
-    for (let i = 0; i < SetList.length;) {
-        let row = []
+    for (let i = 0; i < SetList.length; i++) {
         // eslint-disable-next-line
-        for (let j = 0; j < 3 && i < SetList.length; j++) {
-            row.push(
-                <div className="setContainer center ">
-                    <Set key={i} setInfo={SetList[i]} />
-                </div >
-            )
-            i++
-        }
         nodes.push(
-            <div className="setsRow ">
-                {row}
-            </div>
-        )
+            <div className="setContainer  ">
+                <Set key={i} setInfo={SetList[i]} />
+            </div >
+        ) 
 
     }
     return (

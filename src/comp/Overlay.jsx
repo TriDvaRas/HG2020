@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../App.css";
 import downloadjs from "downloadjs";
-
+import DownloadIcon from "../download.svg"
 
 
 function Overlay(props) {
@@ -15,7 +15,8 @@ function Overlay(props) {
 
     return (
         <div className="setOverlay ">
-            <div className=" ">
+            <div className="downloadContainer ">
+                <img className="downloadIcon " src={DownloadIcon}></img>
                 {buttons}
             </div>
         </div>

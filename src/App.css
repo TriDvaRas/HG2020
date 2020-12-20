@@ -2,10 +2,11 @@
   text-align: center;
   overflow: hidden
 }
-.App *{
-  
-  transition: .3s ease;
+
+.App * {
+  transition: all .3s ease;
 }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -30,21 +31,18 @@ img {
 
 .setsTable {
   display: flex;
-  flex-direction: column;
-}
-.setsRow {
-  display: flex;
   flex-direction: row;
-
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .setContainer {
   margin: 30px;
   max-width: 375px;
   width: auto;
-  
 }
-.setContainer *{
+
+.setContainer * {
   border-radius: 25px;
 }
 
@@ -65,41 +63,75 @@ img {
   display: block;
   height: auto;
   overflow: hidden;
-  border-radius: 25px  25px 0 0;
+  border-radius: 25px 0 0 25px;
 }
 
-.imageContainer:hover  .setOverlayButton {
-  
-  width: 100px; 
+.setOverlay * {
+  transform: translate(-120%);
 }
-.imageContainer:hover  .setOverlay {
-  width: 150px; 
+
+.imageContainer:hover .setPreview {
+  filter:brightness(0.5)
 }
-.imageContainer:hover  .text {
-  opacity: 0.9; 
+
+.imageContainer:hover .setOverlay * {
+  transform: translate(0px);
 }
+
+.imageContainer:hover .setOverlay {
+  width: 150px;
+}
+
+.imageContainer:hover .text {
+  opacity: 0.9;
+}
+
+.imageContainer:hover .downloadIcon {
+  opacity: 0.9;
+}
+
 .text {
-  white-space: nowrap; 
-  opacity: 0; 
+  white-space: nowrap;
+  opacity: 0;
   color: white;
-  font-size: 24px;
+  font-size: 26px;
   overflow: hidden;
 }
-.setOverlayButton{
+
+.setOverlayButton {
   margin: 20px auto 0 auto;
   cursor: pointer;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  width:0;
-  height:50px;
-  border:rgb(116, 115, 122) solid 2px;
+  width: 60%;
+  height: 45px;
+  border: rgb(116, 115, 122) solid 3px;
   border-radius: 10px;
   background-color: rgba(65, 64, 68, 0.7);
 }
-.center {
-  margin: auto;
-  width: 50%;
-  padding: 30px;
+
+.setOverlayButton:hover {
+  border: rgb(167, 165, 180) solid 3px;
+  background-color: rgba(91, 89, 95, 0.7);
+  transition: .2s ease;
+}
+
+.downloadIcon {
+  margin: 0;
+  opacity: 0;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0;
+  width: 45px;
+  height: 45px;
+  filter: invert(76%) sepia(7%) saturate(130%) hue-rotate(131deg) brightness(93%) contrast(93%);
+}
+
+.downloadContainer {
+  padding: 25px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
