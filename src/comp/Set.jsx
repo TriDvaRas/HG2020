@@ -9,7 +9,7 @@ function Set(props) {
     let setInfo = props.setInfo
     return (
         <div className="imageContainer ">
-            <img className="setPreview " src={setInfo.img}></img>
+            <img className="setPreview " alt="SetPreview" src={setInfo.img}></img>
             <Overlay  links={setInfo.links} />
         </div>
     )
