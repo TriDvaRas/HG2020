@@ -1,7 +1,7 @@
 [
     {
         "label":"Sample",
-        "img":"/images/sample.png",
+        "img":"images/sample.png",
         "links":[
             {
                 "name":"PSD",
@@ -15,7 +15,7 @@
     },
     {
         "label":"Sample",
-        "img":"/images/sample.png",
+        "img":"images/sample.png",
         "links":[
             {
                 "name":"PSD",
@@ -29,7 +29,7 @@
     },
     {
         "label":"Sample",
-        "img":"/images/sample.png",
+        "img":"images/sample.png",
         "links":[
             {
                 "name":"PSD",
@@ -43,7 +43,7 @@
     },
     {
         "label":"Sample",
-        "img":"/images/sample.png",
+        "img":"images/sample.png",
         "links":[
             {
                 "name":"PSD",
@@ -57,7 +57,7 @@
     },
     {
         "label":"Sample",
-        "img":"/images/sample.png",
+        "img":"images/sample.png",
         "links":[
             {
                 "name":"PSD",
