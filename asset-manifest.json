@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HuetaGoda/static/css/main.366668c0.chunk.css",
-    "main.js": "/HuetaGoda/static/js/main.3445b8a5.chunk.js",
-    "main.js.map": "/HuetaGoda/static/js/main.3445b8a5.chunk.js.map",
+    "main.css": "/HuetaGoda/static/css/main.ce025a64.chunk.css",
+    "main.js": "/HuetaGoda/static/js/main.69d39182.chunk.js",
+    "main.js.map": "/HuetaGoda/static/js/main.69d39182.chunk.js.map",
     "runtime-main.js": "/HuetaGoda/static/js/runtime-main.e1c41168.js",
     "runtime-main.js.map": "/HuetaGoda/static/js/runtime-main.e1c41168.js.map",
     "static/js/2.15e63975.chunk.js": "/HuetaGoda/static/js/2.15e63975.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.ec0c280a.chunk.js": "/HuetaGoda/static/js/3.ec0c280a.chunk.js",
     "static/js/3.ec0c280a.chunk.js.map": "/HuetaGoda/static/js/3.ec0c280a.chunk.js.map",
     "index.html": "/HuetaGoda/index.html",
-    "static/css/main.366668c0.chunk.css.map": "/HuetaGoda/static/css/main.366668c0.chunk.css.map",
+    "static/css/main.ce025a64.chunk.css.map": "/HuetaGoda/static/css/main.ce025a64.chunk.css.map",
     "static/js/2.15e63975.chunk.js.LICENSE.txt": "/HuetaGoda/static/js/2.15e63975.chunk.js.LICENSE.txt",
     "static/media/download.188335c8.svg": "/HuetaGoda/static/media/download.188335c8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e1c41168.js",
     "static/js/2.15e63975.chunk.js",
-    "static/css/main.366668c0.chunk.css",
-    "static/js/main.3445b8a5.chunk.js"
+    "static/css/main.ce025a64.chunk.css",
+    "static/js/main.69d39182.chunk.js"
   ]
 }
