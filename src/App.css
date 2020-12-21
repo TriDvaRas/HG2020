@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .App * {
@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #24272c;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,14 +19,11 @@
 }
 
 .mainContainer {
-  padding: 60px 120px
+  padding: 60px 120px;
 }
 
 img {
-  width: 100%;
   display: block;
-  width: 100%;
-  height: auto;
 }
 
 .setsTable {
@@ -38,12 +35,18 @@ img {
 
 .setContainer {
   margin: 30px;
-  max-width: 375px;
-  width: auto;
 }
 
 .setContainer * {
   border-radius: 25px;
+  height: 250px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap');
+
+.setLabel {
+  font-family: 'Roboto Slab', serif;
+  height: auto;
 }
 
 .imageContainer {

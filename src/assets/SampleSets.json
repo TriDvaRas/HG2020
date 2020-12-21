@@ -1,0 +1,45 @@
+[
+    
+    {
+        "label":"Sample5x2",
+        "img":"/HuetaGoda/files/ХГ2020_5x2.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HuetaGoda/files/ХГ2020_5x2.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"files/ХГ2020_5x2.png"
+            }
+        ]
+    },
+    {
+        "label":"Sample6x2",
+        "img":"/HuetaGoda/files/ХГ2020_6x2.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HuetaGoda/files/ХГ2020_6x2.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HuetaGoda/files/ХГ2020_6x2.png"
+            }
+        ]
+    },
+    {
+        "label":"Sample7x2",
+        "img":"/HuetaGoda/files/ХГ2020_7x2.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HuetaGoda/files/ХГ2020_7x2.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HuetaGoda/files/ХГ2020_7x2.png"
+            }
+        ]
+    }
+]

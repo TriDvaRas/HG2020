@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import downloadjs from "downloadjs";
+import { saveAs } from 'file-saver';
 import DownloadIcon from "../download.svg"
 
 
@@ -9,7 +9,7 @@ function Overlay(props) {
     for (let i = 0; i < props.links.length; i++) {
         const link = props.links[i];
         buttons.push(
-            <div className="setOverlayButton text  " onClick={(() => { downloadjs(link.url) })}>{link.name}</div>
+            <div className="setOverlayButton text  " onClick={(() => { saveAs(link.url,`ХГ2020_${props.label}.${link.url.slice(-3)}`,{ autoBom: true }) })}>{link.name}</div>
         )
     }
 

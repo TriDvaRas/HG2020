@@ -1,13 +1,13 @@
 import React from "react";
 import "../App.css";
 import Set from './Set'
-import SetList from '../assets/SetsList.json'
 
 
 
 
-function Table() {
+function Table(props) {
     let nodes = []
+    let SetList = props.setList;
     for (let i = 0; i < SetList.length; i++) {
         // eslint-disable-next-line
         nodes.push(
