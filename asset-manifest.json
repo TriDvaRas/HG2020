@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HuetaGoda/static/css/main.ce025a64.chunk.css",
-    "main.js": "/HuetaGoda/static/js/main.5167b82b.chunk.js",
-    "main.js.map": "/HuetaGoda/static/js/main.5167b82b.chunk.js.map",
-    "runtime-main.js": "/HuetaGoda/static/js/runtime-main.e1c41168.js",
-    "runtime-main.js.map": "/HuetaGoda/static/js/runtime-main.e1c41168.js.map",
-    "static/js/2.15e63975.chunk.js": "/HuetaGoda/static/js/2.15e63975.chunk.js",
-    "static/js/2.15e63975.chunk.js.map": "/HuetaGoda/static/js/2.15e63975.chunk.js.map",
-    "static/js/3.ec0c280a.chunk.js": "/HuetaGoda/static/js/3.ec0c280a.chunk.js",
-    "static/js/3.ec0c280a.chunk.js.map": "/HuetaGoda/static/js/3.ec0c280a.chunk.js.map",
-    "index.html": "/HuetaGoda/index.html",
-    "static/css/main.ce025a64.chunk.css.map": "/HuetaGoda/static/css/main.ce025a64.chunk.css.map",
-    "static/js/2.15e63975.chunk.js.LICENSE.txt": "/HuetaGoda/static/js/2.15e63975.chunk.js.LICENSE.txt",
-    "static/media/download.188335c8.svg": "/HuetaGoda/static/media/download.188335c8.svg"
+    "main.css": "/HG2020/static/css/main.897b1538.chunk.css",
+    "main.js": "/HG2020/static/js/main.cd8b5edb.chunk.js",
+    "main.js.map": "/HG2020/static/js/main.cd8b5edb.chunk.js.map",
+    "runtime-main.js": "/HG2020/static/js/runtime-main.c1b048ad.js",
+    "runtime-main.js.map": "/HG2020/static/js/runtime-main.c1b048ad.js.map",
+    "static/js/2.15e63975.chunk.js": "/HG2020/static/js/2.15e63975.chunk.js",
+    "static/js/2.15e63975.chunk.js.map": "/HG2020/static/js/2.15e63975.chunk.js.map",
+    "static/js/3.ec0c280a.chunk.js": "/HG2020/static/js/3.ec0c280a.chunk.js",
+    "static/js/3.ec0c280a.chunk.js.map": "/HG2020/static/js/3.ec0c280a.chunk.js.map",
+    "index.html": "/HG2020/index.html",
+    "static/css/main.897b1538.chunk.css.map": "/HG2020/static/css/main.897b1538.chunk.css.map",
+    "static/js/2.15e63975.chunk.js.LICENSE.txt": "/HG2020/static/js/2.15e63975.chunk.js.LICENSE.txt",
+    "static/media/download.188335c8.svg": "/HG2020/static/media/download.188335c8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1c41168.js",
+    "static/js/runtime-main.c1b048ad.js",
     "static/js/2.15e63975.chunk.js",
-    "static/css/main.ce025a64.chunk.css",
-    "static/js/main.5167b82b.chunk.js"
+    "static/css/main.897b1538.chunk.css",
+    "static/js/main.cd8b5edb.chunk.js"
   ]
 }
