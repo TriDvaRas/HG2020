@@ -11,7 +11,7 @@ function Table(props) {
     for (let i = 0; i < SetList.length; i++) {
         // eslint-disable-next-line
         nodes.push(
-            <div className="setContainer  ">
+            <div className={`setContainer ${SetList[i].rows?`rows${SetList[i].rows}`:``} `}>
                 <Set key={i} setInfo={SetList[i]} />
             </div >
         ) 

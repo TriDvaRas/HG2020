@@ -1,12 +1,29 @@
 [
-    
     {
-        "label":"Удали",
-        "img":"/HuetaGoda/files/base.png",
+        "label":"osu!",
+        "img":"/HG2020/files/ХГ2020_osu.png",
         "links":[
             {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_osu.psd"
+            },
+            {
                 "name":"PNG",
-                "url":"/HuetaGoda/files/base.png"
+                "url":"/HG2020/files/ХГ2020_osu.png"
+            }
+        ]
+    },
+    {
+        "label":"Картиночки",
+        "img":"/HG2020/files/ХГ2020_Картиночки.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Картиночки.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Картиночки.png"
             }
         ]
     }

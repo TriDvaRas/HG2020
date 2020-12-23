@@ -1,43 +1,71 @@
 [
     {
-        "label":"Люди",
-        "img":"/HuetaGoda/files/ХГ2020_Люди.png",
+        "label":"Classic",
+        "img":"/HG2020/files/ХГ2020_Classic.png",
         "links":[
             {
                 "name":"PSD",
-                "url":"/HuetaGoda/files/ХГ2020_Люди.psd"
+                "url":"/HG2020/files/ХГ2020_Classic.psd"
             },
             {
                 "name":"PNG",
-                "url":"/HuetaGoda/files/ХГ2020_Люди.png"
+                "url":"/HG2020/files/ХГ2020_Classic.png"
             }
         ]
     },
     {
         "label":"Контент",
-        "img":"/HuetaGoda/files/ХГ2020_Контент.png",
+        "img":"/HG2020/files/ХГ2020_Контент.png",
         "links":[
             {
                 "name":"PSD",
-                "url":"/HuetaGoda/files/ХГ2020_Контент.psd"
+                "url":"/HG2020/files/ХГ2020_Контент.psd"
             },
             {
                 "name":"PNG",
-                "url":"/HuetaGoda/files/ХГ2020_Контент.png"
+                "url":"/HG2020/files/ХГ2020_Контент.png"
             }
         ]
     },
     {
-        "label":"Classic",
-        "img":"/HuetaGoda/files/ХГ2020_Classic.png",
+        "label":"Люди",
+        "img":"/HG2020/files/ХГ2020_Люди.png",
         "links":[
             {
                 "name":"PSD",
-                "url":"/HuetaGoda/files/ХГ2020_Classic.psd"
+                "url":"/HG2020/files/ХГ2020_Люди.psd"
             },
             {
                 "name":"PNG",
-                "url":"/HuetaGoda/files/ХГ2020_Classic.png"
+                "url":"/HG2020/files/ХГ2020_Люди.png"
+            }
+        ]
+    },
+    {
+        "label":"Мемы",
+        "img":"/HG2020/files/ХГ2020_Мемы.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Мемы.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Мемы.png"
+            }
+        ]
+    },
+    {
+        "label":"Я",
+        "img":"/HG2020/files/ХГ2020_Я.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Я.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Я.png"
             }
         ]
     }
