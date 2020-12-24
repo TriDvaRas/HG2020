@@ -1,7 +1,7 @@
 [
     {
         "label": "Sample5x2",
-        "img": "/HG2020/files/ХГ2020_5x2.png",
+        "img": "/HG2020/files/preview/ХГ2020_5x2.png",
         "links": [
             {
                 "name": "PSD",
@@ -11,7 +11,7 @@
     },
     {
         "label": "Sample6x2",
-        "img": "/HG2020/files/ХГ2020_6x2.png",
+        "img": "/HG2020/files/preview/ХГ2020_6x2.png",
         "links": [
             {
                 "name": "PSD",
@@ -21,7 +21,7 @@
     },
     {
         "label": "Sample7x2",
-        "img": "/HG2020/files/ХГ2020_7x2.png",
+        "img": "/HG2020/files/preview/ХГ2020_7x2.png",
         "links": [
             {
                 "name": "PSD",
@@ -31,7 +31,7 @@
     },
     {
         "label": "Sample4x2sqr",
-        "img": "/HG2020/files/ХГ2020_4x2sq.png",
+        "img": "/HG2020/files/preview/ХГ2020_4x2sq.png",
         "links": [
             {
                 "name": "PSD",
@@ -41,7 +41,7 @@
     },
     {
         "label": "Sample2x3wd",
-        "img": "/HG2020/files/ХГ2020_2x3wd.png",
+        "img": "/HG2020/files/preview/ХГ2020_2x3wd.png",
         "rows": 3,
         "links": [
             {
