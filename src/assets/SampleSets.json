@@ -6,10 +6,6 @@
             {
                 "name": "PSD",
                 "url": "/HG2020/files/ХГ2020_5x2.psd"
-            },
-            {
-                "name": "PNG",
-                "url": "files/ХГ2020_5x2.png"
             }
         ]
     },
@@ -20,10 +16,6 @@
             {
                 "name": "PSD",
                 "url": "/HG2020/files/ХГ2020_6x2.psd"
-            },
-            {
-                "name": "PNG",
-                "url": "/HG2020/files/ХГ2020_6x2.png"
             }
         ]
     },
@@ -34,10 +26,6 @@
             {
                 "name": "PSD",
                 "url": "/HG2020/files/ХГ2020_7x2.psd"
-            },
-            {
-                "name": "PNG",
-                "url": "/HG2020/files/ХГ2020_7x2.png"
             }
         ]
     },
@@ -48,10 +36,6 @@
             {
                 "name": "PSD",
                 "url": "/HG2020/files/ХГ2020_4x2sq.psd"
-            },
-            {
-                "name": "PNG",
-                "url": "/HG2020/files/ХГ2020_4x2sq.png"
             }
         ]
     },
@@ -63,10 +47,6 @@
             {
                 "name": "PSD",
                 "url": "/HG2020/files/ХГ2020_2x3wd.psd"
-            },
-            {
-                "name": "PNG",
-                "url": "/HG2020/files/ХГ2020_2x3wd.png"
             }
         ]
     }

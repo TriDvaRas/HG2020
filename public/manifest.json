@@ -1,6 +1,6 @@
 {
-  "short_name": "Хуета Года",
-  "name": "Каждый год одно и то же",
+  "short_name": "Хуйня Года",
+  "name": "Каждый год одно и то же, но при этом всегда лучше чем было",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,5 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#25272c"
 }
