@@ -20,6 +20,16 @@
         ]
     },
     {
+        "label": "Sample1x1sq",
+        "img": "/HG2020/files/preview/ХГ2020_1x1sq.png",
+        "links": [
+            {
+                "name": "PSD",
+                "url": "/HG2020/files/ХГ2020_1x1sq.psd"
+            }
+        ]
+    },
+    {
         "label": "Sample7x2",
         "img": "/HG2020/files/preview/ХГ2020_7x2.png",
         "links": [
@@ -30,7 +40,7 @@
         ]
     },
     {
-        "label": "Sample4x2sqr",
+        "label": "Sample4x2sq",
         "img": "/HG2020/files/preview/ХГ2020_4x2sq.png",
         "links": [
             {

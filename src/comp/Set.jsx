@@ -10,9 +10,8 @@ function Set(props) {
     return (
         <div>
             <div className="imageContainer ">
-            <img className="setPreview " alt="SetPreview" src={setInfo.img}></img>
-            
-            <Overlay links={setInfo.links} label={setInfo.label} />
+                <img className="setPreview " alt="SetPreview" src={setInfo.img}></img>
+                <Overlay links={setInfo.links} label={setInfo.label} />
             </div>
             <div className="setLabel ">
                 {setInfo.label}
