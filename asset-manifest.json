@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HG2020/static/css/main.f9c07ffb.chunk.css",
-    "main.js": "/HG2020/static/js/main.49360012.chunk.js",
-    "main.js.map": "/HG2020/static/js/main.49360012.chunk.js.map",
+    "main.css": "/HG2020/static/css/main.ca2462dd.chunk.css",
+    "main.js": "/HG2020/static/js/main.e4abdb94.chunk.js",
+    "main.js.map": "/HG2020/static/js/main.e4abdb94.chunk.js.map",
     "runtime-main.js": "/HG2020/static/js/runtime-main.1445f4d0.js",
     "runtime-main.js.map": "/HG2020/static/js/runtime-main.1445f4d0.js.map",
     "static/js/2.f2690840.chunk.js": "/HG2020/static/js/2.f2690840.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.dc36ab19.chunk.js": "/HG2020/static/js/3.dc36ab19.chunk.js",
     "static/js/3.dc36ab19.chunk.js.map": "/HG2020/static/js/3.dc36ab19.chunk.js.map",
     "index.html": "/HG2020/index.html",
-    "static/css/main.f9c07ffb.chunk.css.map": "/HG2020/static/css/main.f9c07ffb.chunk.css.map",
+    "static/css/main.ca2462dd.chunk.css.map": "/HG2020/static/css/main.ca2462dd.chunk.css.map",
     "static/js/2.f2690840.chunk.js.LICENSE.txt": "/HG2020/static/js/2.f2690840.chunk.js.LICENSE.txt",
     "static/media/Corner_UL.dd198526.png": "/HG2020/static/media/Corner_UL.dd198526.png",
     "static/media/EGG.7fe27e4f.png": "/HG2020/static/media/EGG.7fe27e4f.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.1445f4d0.js",
     "static/js/2.f2690840.chunk.js",
-    "static/css/main.f9c07ffb.chunk.css",
-    "static/js/main.49360012.chunk.js"
+    "static/css/main.ca2462dd.chunk.css",
+    "static/js/main.e4abdb94.chunk.js"
   ]
 }
