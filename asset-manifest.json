@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/HG2020/static/css/main.d0dd215d.chunk.css",
-    "main.js": "/HG2020/static/js/main.59aa094d.chunk.js",
-    "main.js.map": "/HG2020/static/js/main.59aa094d.chunk.js.map",
+    "main.css": "/HG2020/static/css/main.53af5d00.chunk.css",
+    "main.js": "/HG2020/static/js/main.3985341d.chunk.js",
+    "main.js.map": "/HG2020/static/js/main.3985341d.chunk.js.map",
     "runtime-main.js": "/HG2020/static/js/runtime-main.1445f4d0.js",
     "runtime-main.js.map": "/HG2020/static/js/runtime-main.1445f4d0.js.map",
-    "static/js/2.05731357.chunk.js": "/HG2020/static/js/2.05731357.chunk.js",
-    "static/js/2.05731357.chunk.js.map": "/HG2020/static/js/2.05731357.chunk.js.map",
+    "static/js/2.abf734d8.chunk.js": "/HG2020/static/js/2.abf734d8.chunk.js",
+    "static/js/2.abf734d8.chunk.js.map": "/HG2020/static/js/2.abf734d8.chunk.js.map",
     "static/js/3.dc36ab19.chunk.js": "/HG2020/static/js/3.dc36ab19.chunk.js",
     "static/js/3.dc36ab19.chunk.js.map": "/HG2020/static/js/3.dc36ab19.chunk.js.map",
     "index.html": "/HG2020/index.html",
-    "static/css/main.d0dd215d.chunk.css.map": "/HG2020/static/css/main.d0dd215d.chunk.css.map",
-    "static/js/2.05731357.chunk.js.LICENSE.txt": "/HG2020/static/js/2.05731357.chunk.js.LICENSE.txt",
+    "static/css/main.53af5d00.chunk.css.map": "/HG2020/static/css/main.53af5d00.chunk.css.map",
+    "static/js/2.abf734d8.chunk.js.LICENSE.txt": "/HG2020/static/js/2.abf734d8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/HG2020/static/media/ljk_RoadRage.ee2aaa1d.woff",
     "static/media/download.188335c8.svg": "/HG2020/static/media/download.188335c8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1445f4d0.js",
-    "static/js/2.05731357.chunk.js",
-    "static/css/main.d0dd215d.chunk.css",
-    "static/js/main.59aa094d.chunk.js"
+    "static/js/2.abf734d8.chunk.js",
+    "static/css/main.53af5d00.chunk.css",
+    "static/js/main.3985341d.chunk.js"
   ]
 }
