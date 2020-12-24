@@ -19,12 +19,11 @@ function Set(props) {
 
     return (
         <div>
-            <h2>Все будет, когда оно будет (надеюсь)</h2>
             <Countdown
                 date={props.date}
                 daysInHours="true"
                 className="timerText "
-                children={<h2>Если ты это читаешь то кое кто еблан и забыл сделать что бы Хуйня появилась сама</h2>}
+                children={<div className="description ">Если ты это читаешь то кое кто еблан и забыл сделать что бы Хуйня появилась сама</div>}
             // renderer={renderer}
             />
         </div>
