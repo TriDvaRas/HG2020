@@ -6,9 +6,9 @@ import SampleSets from '../assets/SampleSets.json'
 import CustomSets from '../assets/CustomSets.json'
 import Jops from '../assets/Jops.json'
 import Timer from './Timer'
-
 function Main(props) {
     let releaseDate = new Date("30-dec-2020-12:00:00 GMT+0300")
+
     return releaseDate < Date.now() ?
         // release
         <div className="mainContainer ">
@@ -16,13 +16,45 @@ function Main(props) {
             <div className="foot ">
                 сайт писал какой то даун и на очень больших экранах или при маленьком масштабе могут быть небольшие но в больших количествах баги
             </div>
-            <div className="commentary ">Тебя здесь быть не должно. Ты либо мамкин хаккер, либо я даун.</div>
-            {/* <h1>Основная Хуйня</h1>
+            <h1>Много букав </h1>
+            <div className="commentary ">Госпади, а куда я попал?</div>
+            <div className="description ">
+                Ты попал Хуйню Года™, а если быть точным то в 4-ую ежегодную стадию ежегодного Аутизма Rice Fields Хуйни Года™.
+                Цифарки дотикали. Я вам разрешаю заполять Хуету Года.
+                Ниже находятся все паки этого года.
+                В основных самые базовые, их делал лично я своими голыми руками.
+                Кастомные создавались чужими голыми руками (нашими<s>шиза</s>). 
+                Категории могут повторяться, <s>я художник</s> мы так видим.
+                </div>
+            <div className="commentary ">А как заполнять?</div>
+            <div className="description ">
+                Скачиваешь пак который хочешь заполнить в нужном формате (PSD), открываешь фотошоп 2019+ (более старые тоже подойдут, но картинки прийдется ровнять руками) и заполняешь.
+                Если фотошопа нет, то идешь <a className="hlink" target="_blank" rel="noopener noreferrer" href="https://www.photopea.com/">сюда</a> и делаешь.
+                 <s>Если сильно хочется можно и в пеинте.</s>нельзя
+            </div>
+            <div className="description ">
+                Как закончил сохраняешь в PNG/JPEG и закидываешь <a className="hlink" target="_blank" rel="noopener noreferrer" href="https://photos.app.goo.gl/WbMoT7a5rBYnnYnD9">сюда</a>.
+                  <s>Если скучно можешь еще мне в вк PSDшник скинуть.</s>
+            </div>
+            <h1>Основная Хуйня</h1>
             <Table setList={OffSets} />
             <h1>Ваша Кастомная Хуйня</h1>
-            <Table setList={CustomSets} />
-            <h1>Заготовочки для Хуйни</h1>
-            <Table setList={SampleSets} /> */}
+            <Table setList={(CustomSets)} />
+            <h1>Шаблоны Хуйни</h1>
+            <div className="description ">
+                Если недели на то что бы сделать свои категории не хватило, то шаблончики все еще тут.
+                </div>
+            <Table setList={SampleSets} />
+            <h1>Штифты</h1>
+            <a className="fontButton RoadRage" href="https://www.fonts-online.ru/font/ljk_RoadRage" target="_blank" rel="noreferrer">RoadRage</a><br />
+            <a className="fontButton Impact" href="https://www.wfonts.com/font/impact" target="_blank" rel="noreferrer">Impact</a>
+            <br />
+            <br />
+            <br />
+            <br />
+            <div className="description ">
+                <s>И на последок подержите автора сердечным приступом и пипиской      Ищите пасхалки</s>
+            </div>
         </div> :
         // creation
         <div className="mainContainer ">
@@ -43,7 +75,7 @@ function Main(props) {
             <div className="commentary ">А как делать?</div>
             <div className="description ">
                 Правил как обычно нет, наборы могут быть как на какую-либо тему, так и просто кучей рандомной Хуйни.
-                Ниже можно найти заготовки в формате PSD и использованные шрифты. 
+                Ниже можно найти заготовки в формате PSD и использованные шрифты.
                 Если нужны заготовки другого размера пишите мне в лс и все будет.
                 Результат вашей больной фантации присылаем туда же.
                 </div>
@@ -67,13 +99,13 @@ function Main(props) {
             <h1>Штифты</h1>
             <a className="fontButton RoadRage" href="https://www.fonts-online.ru/font/ljk_RoadRage" target="_blank" rel="noreferrer">RoadRage</a><br />
             <a className="fontButton Impact" href="https://www.wfonts.com/font/impact" target="_blank" rel="noreferrer">Impact</a>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
+            <br />
+            <br />
+            <br />
+            <br />
             <div className="description ">
                 <s>И на последок подержите автора сердечным приступом и пипиской.</s>
-                </div>
+            </div>
         </div>
 
 }

@@ -1,7 +1,7 @@
 [
     {
         "label":"Classic",
-        "img":"/HG2020/files/ХГ2020_Classic.png",
+        "img":"/HG2020/files/preview/ХГ2020_Classic.png",
         "links":[
             {
                 "name":"PSD",
@@ -15,7 +15,7 @@
     },
     {
         "label":"Контент",
-        "img":"/HG2020/files/ХГ2020_Контент.png",
+        "img":"/HG2020/files/preview/ХГ2020_Контент.png",
         "links":[
             {
                 "name":"PSD",
@@ -29,7 +29,7 @@
     },
     {
         "label":"Люди",
-        "img":"/HG2020/files/ХГ2020_Люди.png",
+        "img":"/HG2020/files/preview/ХГ2020_Люди.png",
         "links":[
             {
                 "name":"PSD",
@@ -43,7 +43,7 @@
     },
     {
         "label":"Мемы",
-        "img":"/HG2020/files/ХГ2020_Мемы.png",
+        "img":"/HG2020/files/preview/ХГ2020_Мемы.png",
         "links":[
             {
                 "name":"PSD",
@@ -57,7 +57,7 @@
     },
     {
         "label":"Я",
-        "img":"/HG2020/files/ХГ2020_Я.png",
+        "img":"/HG2020/files/preview/ХГ2020_Я.png",
         "links":[
             {
                 "name":"PSD",

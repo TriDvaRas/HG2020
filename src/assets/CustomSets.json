@@ -1,7 +1,120 @@
 [
+    
+    {
+        "label":"Аниме",
+        "img":"/HG2020/files/preview/ХГ2020_Аниме.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Аниме.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Аниме.png"
+            }
+        ]
+    },
+    {
+        "label":"The Thing",
+        "img":"/HG2020/files/preview/ХГ2020_Thing.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Thing.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Thing.png"
+            }
+        ]
+    },
+    {
+        "label":"Музыка",
+        "img":"/HG2020/files/preview/ХГ2020_Музыка.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Музыка.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Музыка.png"
+            }
+        ]
+    },
+    {
+        "label":"Картиночки",
+        "img":"/HG2020/files/preview/ХГ2020_Картиночки.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Картиночки.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Картиночки.png"
+            }
+        ]
+    },
+    {
+        "label":"Убежище",
+        "img":"/HG2020/files/preview/ХГ2020_Уебище.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Уебище.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Уебище.png"
+            }
+        ]
+    },
+    {
+        "label":"Музыка 2",
+        "img":"/HG2020/files/preview/ХГ2020_Музыка2.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Музыка2.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Музыка2.png"
+            }
+        ]
+    },
+    {
+        "label":"Любим Жить!",
+        "img":"/HG2020/files/preview/ХГ2020_LoveLive.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_LoveLive.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_LoveLive.png"
+            }
+        ]
+    },
+    {
+        "label":"Игры",
+        "img":"/HG2020/files/preview/ХГ2020_Игры.png",
+        "links":[
+            {
+                "name":"PSD",
+                "url":"/HG2020/files/ХГ2020_Игры.psd"
+            },
+            {
+                "name":"PNG",
+                "url":"/HG2020/files/ХГ2020_Игры.png"
+            }
+        ]
+    },
     {
         "label":"osu!",
-        "img":"/HG2020/files/ХГ2020_osu.png",
+        "img":"/HG2020/files/preview/ХГ2020_osu.png",
         "links":[
             {
                 "name":"PSD",
@@ -14,16 +127,16 @@
         ]
     },
     {
-        "label":"Картиночки",
-        "img":"/HG2020/files/ХГ2020_Картиночки.png",
+        "label":"Starlight",
+        "img":"/HG2020/files/preview/ХГ2020_Starlight.png",
         "links":[
             {
                 "name":"PSD",
-                "url":"/HG2020/files/ХГ2020_Картиночки.psd"
+                "url":"/HG2020/files/ХГ2020_Starlight.psd"
             },
             {
                 "name":"PNG",
-                "url":"/HG2020/files/ХГ2020_Картиночки.png"
+                "url":"/HG2020/files/ХГ2020_Starlight.png"
             }
         ]
     }

@@ -64,6 +64,12 @@ img {
 .rows3 * {
   height: 406px;
 }
+.hlink{
+  color:rgb(137, 203, 209)
+}
+.hlink:hover{
+  color:rgb(193, 218, 240);
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 .setLabel {
