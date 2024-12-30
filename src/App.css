@@ -245,7 +245,7 @@ s {
 }
 
 .yellow {
-  color: #d6e030;
+  color: #cbce37;
 }
 
 .decorations * {
@@ -315,4 +315,11 @@ s {
   .foot {
     visibility:hidden;
   }
+}
+
+
+b.c21 {
+  background-color: #d6e03015;
+  font-size: 80%;
+  font-family: 'Mulish', sans-serif;
 }
