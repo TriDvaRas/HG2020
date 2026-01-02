@@ -13,7 +13,7 @@ function Main(props) {
     return releaseDate < Date.now() ?
         // release
         <div className="mainContainer ">
-            <div className="mainHeader RoadRage yellow ">Хуйня Года 2024</div>
+            <div className="mainHeader RoadRage yellow ">Хуйня Года 1984</div>
             {/* flex row */}
             <div className="mainHeader" style={{ fontSize: "170%" }}>Рецепт "Северный Разрыв"</div>
 
